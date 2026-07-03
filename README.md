@@ -5,3 +5,5 @@ Projects completed while following the roadmap.sh Frontend Developer Roadmap.
 ## Completed Projects
 
  01 - Single Page CV
+## Project URL
+ https://roadmap.sh/projects/single-page-cv 
